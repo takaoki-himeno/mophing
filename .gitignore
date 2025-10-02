@@ -1,1 +1,26 @@
+# Python venv
+venv/
+.env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+
+# Build / Output
+videos/
+images/cropped/
+
+# Logs
+*.log
+
+# 個人情報
 students.csv
+
+# 生成物（動画・切り出し画像）
+videos/
+images/cropped/
+images/
